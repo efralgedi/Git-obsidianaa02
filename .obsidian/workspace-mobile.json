@@ -25,12 +25,14 @@
             "id": "3354801c0c26468c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-04-04 18.21.36.excalidraw.md"
+                "file": "Hola.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-04 18.21.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "Hola"
             }
           }
         ],
@@ -169,7 +171,7 @@
   },
   "active": "3354801c0c26468c",
   "lastOpenFiles": [
-    "Hola.md",
-    "Drawing 2025-04-04 18.21.36.excalidraw.md"
+    "Drawing 2025-04-04 18.21.36.excalidraw.md",
+    "Hola.md"
   ]
 }
